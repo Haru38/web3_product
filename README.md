@@ -8,7 +8,7 @@ openseaからだと、一つ一つtransferのページに移動sないといけ�
 このコードが実際に効力を持つのはNFTがtransfer(sold)されてから。
 
 ## GassAutoSend.js
-## Matic(ether)を複数人に対して一括で同じ額配布するコード。
+Matic(ether)を複数人に対して一括で同じ額配布するコード。
 あらかじめスプレッドーシートに送付先のwallet Addressを入れておく。
 それらはgoogle form等で自動で集めておけばなお効率がいい。
 
