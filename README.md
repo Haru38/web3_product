@@ -3,8 +3,8 @@ web3関連の開発物を置いておくリポジトリ
 
 ## BatchTransferFromSS.js
 opensea-js APIを用いて既にミントされているNFTであれば一括で複数人に配布することができる。
-openseaからだと、一つ一つtransferのページに移動sないといけないため、その手間が省ける。
-しかしながら、openseaはmintの時点でブロックチェーン上に小勇者の情報は書き込まれていないため、
+openseaからだと、一つ一つtransferのページに移動しないといけないためこのコードによってその手間が省ける。
+しかしながら、openseaはmintの時点でブロックチェーン上に所有者の情報は書き込まれていないため、
 このコードが実際に効力を持つのはNFTがtransfer(sold)されてから。
 
 ## GassAutoSend.js
