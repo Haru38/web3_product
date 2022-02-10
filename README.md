@@ -1,5 +1,5 @@
 # web3_product
-web3関連の開発物を置いておくリポジトリ
+web3関連の開発物
 
 ## BatchTransferFromSS.js
 opensea-js APIを用いて既にミントされているNFTであれば一括で複数人に配布することができる。
